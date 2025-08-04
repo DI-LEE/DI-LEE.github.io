@@ -1,5 +1,15 @@
 ---
 layout: post
+date: 2025-03-10
+inline: true
+related_posts: false
+---
+
+Our Two paper on 3D scene editing, <a href="https://arxiv.org/abs/2412.11520" target="_blank">EditSplat</a>, and 3D scene segmentation, <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Roh_Insightful_Instance_Features_for_3D_Instance_Segmentation_CVPR_2025_paper.pdf" target="_blank">IKNE</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2025" target="_blank"><strong>CVPR 2025</strong></a>.
+
+
+<!-- ---
+layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
@@ -30,4 +40,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
