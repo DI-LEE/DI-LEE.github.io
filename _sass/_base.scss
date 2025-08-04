@@ -196,7 +196,7 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   img {
-    max-width: 50%;
+    max-width: 80%;
     height: auto;
   }
 
@@ -410,19 +410,19 @@ ul.task-list input[type="checkbox"] {
 
     a {
       img {
-        width: 1.2rem; // doubled from 0.6rem
-        height: 1.2rem; // doubled from 0.6rem
-        margin-bottom: 0.6rem; // doubled from 0.3rem
+        width: 0.8rem; // doubled from 0.6rem
+        height: 0.8rem; // doubled from 0.6rem
+        margin-bottom: 0.4rem; // doubled from 0.3rem
       }
 
       svg {
-        width: 1.6rem;   // doubled from 0.8rem
-        height: 2.0rem;  // doubled from 1.0rem
+        width: 1.2rem;   // doubled from 0.8rem
+        height: 1.6rem;  // doubled from 1.0rem
         margin-bottom: 0.2rem; // doubled from 0.1rem
 
         image {
-          width: 1.4rem; // doubled from 0.7rem
-          height: 1.4rem; // doubled from 0.7rem
+          width: 1.0rem; // doubled from 0.7rem
+          height: 1.0rem; // doubled from 0.7rem
         }
       }
 
