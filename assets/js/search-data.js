@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-3d-watermarking-waterf-is-accepted-to-cvpr-2024",
+          title: 'Our paper on 3D Watermarking, WateRF, is accepted to CVPR 2024.',
+          description: "",
+          section: "News",},{id: "news-our-two-paper-on-3d-scene-editing-editsplat-and-3d-scene-segmentation-ikne-is-accepted-to-cvpr-2025",
+          title: 'Our Two paper on 3D scene editing, EditSplat, and 3D scene segmentation, IKNE...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
