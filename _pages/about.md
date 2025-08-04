@@ -39,4 +39,4 @@ My research interests lie in **3D computer vision**, especially in:
 
 Outside of research, I enjoy playing soccer, working out, and traveling. I also love learning new things beyond my research area. I'm also a big fan of Arsenal.
 
-If you're interested in collaboration or would like to learn more about my research, feel free to connect!
+If you're interested in my research and collaboration, feel free to connect!
