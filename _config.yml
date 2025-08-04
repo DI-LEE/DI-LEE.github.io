@@ -7,7 +7,6 @@ first_name: Dong In
 middle_name:
 last_name: Lee
 contact_note: >
-  If you're interested in collaboration or would like to learn more about my research, feel free to connect!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at Korea University studying Computer Vision.
 footer_text: >
