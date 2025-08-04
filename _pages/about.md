@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: Currently working at Purdue Univ. as a visiting scholar | Ph.D. Student at Korea Univ.
+# subtitle: Currently working at Purdue Univ. as a visiting scholar | Ph.D. Student at Korea Univ.
 
 profile:
   align: right
   image: Me_at_dessert.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>dilee99@korea.ac.kr</p>
     <p>Ph.D. Student at Korea Univ.</p>
     <p>Visiting Scholar at Purdue Univ.</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
