@@ -8,7 +8,7 @@ subtitle: Visiting scholar @ Purdue Univ | Ph.D. student @ Korea Univ
 profile:
   align: right
   image: Me_at_dessert.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>dilee99@korea.ac.kr</p>
     <p>Ph.D. Student at Korea Univ.</p>
@@ -37,6 +37,6 @@ My research interests lie in **3D computer vision**, especially in:
 - Human-object interaction  
 - AI watermarking
 
-Outside of research, I enjoy playing soccer, working out, and traveling. I also love learning new things beyond my research area. I'm also a big Arsenal fan.
+Outside of research, I enjoy playing soccer, working out, and traveling. I also love learning new things beyond my research area. I'm also a big fan of Arsenal.
 
 If you're interested in collaboration or would like to learn more about my research, feel free to connect!
