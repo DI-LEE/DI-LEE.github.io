@@ -11,8 +11,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dilee99@korea.ac.kr</p>
-    <p>Ph.D. Student at Korea Univ.</p>
-    <p>Visiting Scholar at Purdue Univ.</p>
+    # <p>Ph.D. Student at Korea Univ.</p>
+    # <p>Visiting Scholar at Purdue Univ.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a Ph.D. student in the [Computer Vision Lab (KUAICV)](https://kuaicv.com/) at [Korea University](https://www.korea.edu/sites/en/index.do), advised by [Prof. Sangpil Kim](https://kuaicv.com/professor/?theme=pub/antoniau0026hide_banners=true). 
+Welcome to my website! I am a **Ph.D. student** in the [Computer Vision Lab (KUAICV)](https://kuaicv.com/) at [Korea University](https://www.korea.edu/sites/en/index.do), advised by [Prof. Sangpil Kim](https://kuaicv.com/professor/?theme=pub/antoniau0026hide_banners=true). 
 
 I am currently a **visiting scholar at [Purdue University](https://www.purdue.edu/)**, collaborating with [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/) at the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/).
 
