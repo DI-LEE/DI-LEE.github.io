@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my journey as a visiting scholar at <strong>Purdue University</strong>! 🇺🇸
+I have started my journey as a visiting scholar at <strong>Purdue University</strong>🇺🇸!
