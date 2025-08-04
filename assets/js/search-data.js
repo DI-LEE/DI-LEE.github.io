@@ -110,8 +110,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-3d-watermarking-waterf-is-accepted-to-cvpr-2024",
-          title: 'Our paper on 3D Watermarking, WateRF, is accepted to CVPR 2024.',
+            },},{id: "news-our-paper-on-3d-watermarking-waterf-was-accepted-to-cvpr-2024",
+          title: 'Our paper on 3D Watermarking, WateRF, was accepted to CVPR 2024.',
           description: "",
           section: "News",},{id: "news-i-have-started-my-journey-as-a-visiting-scholar-at-purdue-university",
           title: 'I have started my journey as a visiting scholar at Purdue University🇺🇸!',
@@ -119,8 +119,8 @@ ninja.data = [{
           section: "News",},{id: "news-two-of-our-papers-editsplat-on-3d-scene-editing-and-ikne-on-3d-scene-segmentation-have-been-accepted-to-cvpr-2025",
           title: 'Two of our papers — EditSplat on 3D scene editing, and IKNE on...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-3d-human-object-interaction-is-accepted-to-acm-mm-2025",
-          title: 'Our paper on 3D human-object interaction is accepted to ACM MM 2025.',
+          section: "News",},{id: "news-our-paper-on-3d-human-object-interaction-has-been-accepted-to-acm-mm-2025",
+          title: 'Our paper on 3D human-object interaction has been accepted to ACM MM 2025....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -207,14 +207,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=VRcajyUAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
