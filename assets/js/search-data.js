@@ -114,7 +114,7 @@ ninja.data = [{
           title: 'Our paper on 3D Watermarking, WateRF, is accepted to CVPR 2024.',
           description: "",
           section: "News",},{id: "news-i-have-started-my-journey-as-a-visiting-scholar-at-purdue-university",
-          title: 'I have started my journey as a visiting scholar at Purdue University! 🇺🇸...',
+          title: 'I have started my journey as a visiting scholar at Purdue University🇺🇸!',
           description: "",
           section: "News",},{id: "news-two-of-our-papers-editsplat-on-3d-scene-editing-and-ikne-on-3d-scene-segmentation-have-been-accepted-to-cvpr-2025",
           title: 'Two of our papers — EditSplat on 3D scene editing, and IKNE on...',
