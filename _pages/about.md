@@ -27,13 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am an integrated M.S./Ph.D. student in the [Computer Vision Lab (KUAICV)](https://cvlab.korea.ac.kr) at [Korea University](https://www.korea.ac.kr), advised by Prof. **Sangpil Kim**. I am currently a **visiting scholar at Purdue University**, collaborating with Prof. **Karthik Ramani** at the **Convergence Design Lab**.
+Welcome to my website! I am a Ph.D. student in the [Computer Vision Lab (KUAICV)](https://kuaicv.com/) at [Korea University](https://www.korea.edu/sites/en/index.do), advised by [Prof. Sangpil Kim](https://kuaicv.com/professor/?theme=pub/antoniau0026hide_banners=true). 
+
+I am currently a **visiting scholar at [Purdue University](https://www.purdue.edu/)**, collaborating with [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/) at the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/).
 
 My research interests lie in **3D computer vision**, especially in:
-- 3D/4D reconstruction and scene editing  
+- 3D/4D scene editing and reconstruction
 - Human-object interaction  
-- 3D watermarking
+- AI watermarking
 
-Outside of research, I love playing soccer, workout, traveling. I enjoy learning new things beyond my research area.
+Outside of research, I enjoy playing soccer, working out, and traveling. I also love learning new things beyond my research area.
 
-If you're interested in collaborating or would like to learn more about my research, feel free to connect!
+If you're interested in collaboration or would like to learn more about my research, feel free to connect!
