@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! I am an integrated M.S./Ph.D. student in the [Computer Vision Lab (KUAICV)](https://cvlab.korea.ac.kr) at [Korea University](https://www.korea.ac.kr), advised by Prof. **Sangpil Kim**. I am currently a **visiting scholar at Purdue University**, collaborating with Prof. **Karthik Ramani** at the **Convergence Design Lab**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in **3D computer vision**, especially in:
+- 3D/4D reconstruction and scene editing  
+- Human-object interaction  
+- 3D watermarking
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I love playing soccer, workout, traveling. I enjoy learning new things beyond my research area.
+
+If you're interested in collaborating or would like to learn more about my research, feel free to connect!
