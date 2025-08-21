@@ -54,7 +54,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-3d-watermarking-waterf-was-accepted-to-cvpr-2024",
+            },},{id: "news-started-the-integrated-ms-phd-program-in-the-computer-vision-lab-kuaicv-korea-university",
+          title: 'Started the integrated MS/PhD program in the Computer Vision Lab (KUAICV), Korea University....',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-3d-watermarking-waterf-was-accepted-to-cvpr-2024",
           title: 'Our paper on 3D Watermarking, WateRF, was accepted to CVPR 2024.',
           description: "",
           section: "News",},{id: "news-i-have-started-my-journey-as-a-visiting-scholar-at-purdue-university",
