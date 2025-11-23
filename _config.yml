@@ -190,6 +190,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - project_page/Dynamic-eDiTor/
 keep_files:
   - CNAME
   - .nojekyll
