@@ -7,7 +7,7 @@ subtitle: Visiting scholar @ Purdue Univ | Ph.D. student @ Korea Univ
 
 profile:
   align: right
-  image: Me_at_dessert.jpg
+  image: sandiego.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dilee99@korea.ac.kr</p>
