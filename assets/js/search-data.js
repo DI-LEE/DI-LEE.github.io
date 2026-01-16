@@ -100,11 +100,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/DI-LEE", "_blank");
+          window.open("https://scholar.google.com/citations?user=VRcajyUAAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'Cv',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/DongInLee_CV.pdf", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -114,11 +121,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/dong-in-lee", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=VRcajyUAAAAJ&hl", "_blank");
+          window.open("https://github.com/DI-LEE", "_blank");
         },
       },{
         id: 'social-x',
@@ -126,13 +133,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/DongInLeeD51567", "_blank");
-        },
-      },{
-        id: 'social-cv',
-        title: 'Cv',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/DongInLee_CV.pdf", "_blank");
         },
       },{
       id: 'light-theme',
