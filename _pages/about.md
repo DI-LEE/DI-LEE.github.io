@@ -32,8 +32,8 @@ Welcome to my website! I am a **Ph.D. student** in the [Computer Vision Lab (KUA
 
 I am currently a **visiting scholar** at [Purdue University](https://www.purdue.edu/), collaborating with [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/) at the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/).
 
-My research interests lie in **3D computer vision**, especially in:
-- 3D/4D scene understanding/generation
+My research interests lie in **computer vision**, especially in:
+- 3D/4D scene understanding
 - Human-object interaction  
 - AI watermarking
 

@@ -439,6 +439,18 @@ ul.task-list input[type="checkbox"] {
         }
       }
     }
+
+    /* Enlarge only the CV icon under profile socials */
+    a[title="CV (PDF)"] {
+      svg {
+        width: 1.6rem;
+        height: 2.0rem;
+      }
+      svg image {
+        width: 1.6rem;
+        height: 2.0rem;
+      }
+    }
   }
 
   .contact-note {
