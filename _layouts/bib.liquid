@@ -179,7 +179,7 @@
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
-      {{ periodical | strip }}
+      {{ periodical | strip }}{% if entry.memo %} <span class="bib-memo" style="color: {{ site.bib_memo_color | default: '#dc3545' }};">{{ entry.memo }}</span>{% endif %}
     </div>
     <div class="periodical">
       {{ entry.note | strip }}

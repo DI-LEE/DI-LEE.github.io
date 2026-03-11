@@ -286,6 +286,9 @@ scholar:
   group_by: year
   group_order: descending
 
+# Memo text (e.g. acceptance rate) next to publication title — color is customizable
+bib_memo_color: '#dc3545'  # default red; use any CSS color (e.g. '#0d6efd', 'crimson')
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
@@ -311,6 +314,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
+    memo,
     pdf,
     poster,
     preview,
