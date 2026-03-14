@@ -95,18 +95,19 @@
     {% when 'zotero_username' %}
       <a href="https://www.zotero.org/{{ social[1] }}" title="Zotero"><i class="ai ai-zotero"></i></a>
     {% else %}
-      <a href="{{ social[1].url }}" title="{{ social[1].title }}">
-        {% assign file_ext = social[1].logo | split: '.' | last %}
-        {% if file_ext == 'svg' %}
-          <svg>
-            <image xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}" />
-          </svg>
-        {% else %}
-          <img
-            src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
-            alt="{{ social[1].title }}"
-          >
-        {% endif %}
+      <a href="{{ social[1].url }}" title="{{ social[1].title }}" class="social-custom-logo">
+        {% assign logo_src = social[1].logo %}
+        {% unless social[1].logo contains '://' %}
+          {% assign logo_src = social[1].logo | relative_url %}
+        {% endunless %}
+        <img
+          class="social-custom-logo-icon"
+          src="{{ logo_src }}"
+          alt="{{ social[1].title }}"
+          width="20"
+          height="20"
+          style="width: 1.25em; height: 1.25em; object-fit: contain;"
+        >
       </a>
   {% endcase %}
 {% endfor %}

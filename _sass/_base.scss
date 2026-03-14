@@ -442,13 +442,13 @@ ul.task-list input[type="checkbox"] {
 
     /* Enlarge only the CV icon under profile socials */
     a[title="CV (PDF)"] {
-      svg {
-        width: 1.6rem;
-        height: 2.0rem;
+      svg, img {
+        width: 2.25rem;
+        height: 2.25rem;
       }
       svg image {
-        width: 1.6rem;
-        height: 2.0rem;
+        width: 100%;
+        height: 100%;
       }
     }
   }
