@@ -30,7 +30,7 @@ latest_posts:
 
 Welcome to my website! I am a **Ph.D. student** in the [Computer Vision Lab (KUAICV)](https://kuaicv.com/) at [Korea University](https://www.korea.edu/sites/en/index.do), advised by [Prof. Sangpil Kim](https://kuaicv.com/professor/?theme=pub/antoniau0026hide_banners=true). 
 
-I am currently a **visiting scholar** at [Purdue University](https://www.purdue.edu/), collaborating with [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/) at the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/).
+I was a **visiting scholar** at [Purdue University](https://www.purdue.edu/) for one year, collaborating with [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/) at the [Convergence Design Lab](https://engineering.purdue.edu/cdesign/wp/).
 
 My research interests lie in **computer vision**, especially in:
 - 3D/4D scene understanding
